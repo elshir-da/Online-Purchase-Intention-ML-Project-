@@ -8,7 +8,7 @@ This project uses the UCI Online Shoppers Purchasing Intention dataset to predic
 **Unit of analysis:** an online shopping session, not an identified individual customer.
 
 ## Business problem
-E-commerce websites observe many sessions that do not convert. A session-level classifier can help prioritize follow-up experiences and marketing experiments. Predictions should support testing—not be treated as proof that an intervention will increase purchases.
+E-commerce websites observe many sessions that do not convert. A session-level classifier can help prioritize follow-up experiences and marketing experiments. Predictions should support testing, not be treated as proof that an intervention will increase purchases.
 
 ## Dataset and access
 - **Dataset:** Online Shoppers Purchasing Intention Dataset
@@ -81,4 +81,4 @@ A separate threshold exploration using the grid-search model found a threshold o
 Install the packages used by the notebook/script (for example: `pandas`, `numpy`, `scikit-learn`, `xgboost`, `matplotlib`, `seaborn`, and `jupyter`). Dataset download and local path configuration may be required. Exact package versions should be recorded in a project environment file before submission.
 
 ## Presentation
-See [`presentation_10min.pptx`](presentation_10min.pptx). Replace `[Your Name]` and `[GitHub repository URL]` on the title/closing slides before presenting.
+Online_shoppers_presentation.pptx.
